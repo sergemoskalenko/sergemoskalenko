@@ -1,7 +1,6 @@
 ### My goal: to make the world less boring!
 
-
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergemoskalenko)
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/sergemoskalenko) &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  [![Donate via PayPal](https://raw.githubusercontent.com/sergemoskalenko/I-m-looking-for-a-job-or-collaboration-as-an-iOS-Mac-OS-X-/master/PayPal.jpg)](https://www.paypal.com/donate/?hosted_button_id=UZGCQ3MNG8QC) 
 
 <!--
 ### Hi there 👋
